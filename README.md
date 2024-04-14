@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Habtemariam Kibru, a passionate student of software engineering.<br><br>😎 I love diving into the world of technology, exploring new ideas, and solving problems.<br><br>📚 Currently learning and growing every day to become the best version of myself.<br><br>💡 Fun Fact: I'm fascinated by the endless possibilities that technology offers!<br><br>🌟 Let's connect and learn together! Feel free to reach out and say hello! ✨
+👋 Hi there! I'm Habtemariam Kibru, a passionate student of software engineering.<br><br>😎 I love diving into the world of technology, exploring new ideas, and solving problems.<br><br>📚 Currently learning and growing every day to become the best version of myself.<br><br>💡<br>🌟 Let's connect and learn together! Feel free to reach out and say hello! ✨
 
 
 ## 🌐 Socials:
